@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noggi0 or Vincent in real life !
 - 🤓 My preferred langages are C/C++ and JavaScript.
-- 👀 I’m interested in Graphics and Engine Programming. I'm always looking for something to learn, and I'm trying a lot of things !
+- 👀 I’m interested in Software, Graphics and Engine Programming. I'm always looking for something to learn, and I'm trying a lot of things !
 - 💻 At the moment, I am trying to learn Vulkan by building my first renderer.
 - 🌱 I’m currently in my 4th year at Epitech.
 
