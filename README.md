@@ -2,7 +2,7 @@
 - 🤓 My preferred langages are C/C++ and JavaScript.
 - 👀 I’m interested in Software, Graphics and Engine Programming. I'm always looking for something to learn, and I'm trying a lot of things !
 - 💻 At the moment, I am trying to learn Vulkan by building my first renderer.
-- 🌱 I’m currently in my 4th year at Epitech.
+- 🌱 I’m currently a Mobile Application Developper at EasyPicky. We're building our app using C++ and Qt.
 
 <h2 align="center">My stats</h2> 
 <p align="center">
