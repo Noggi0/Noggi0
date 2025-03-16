@@ -6,7 +6,7 @@
 
 <h2 align="center">My stats</h2> 
 <p align="center">
-  <img src="https://github-readme-stats-zeta-wine.vercel.app/api/top-langs/?username=Noggi0&hide=makefile&theme=synthwave"><br>
+  <img src="https://github-readme-stats-zeta-wine.vercel.app/api/top-langs/?username=Noggi0&hide=makefile&theme=onedark"><br>
 </p>
 
 <!---
