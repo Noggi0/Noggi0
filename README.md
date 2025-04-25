@@ -1,8 +1,19 @@
 - 👋 Hi, I’m @Noggi0 or Vincent in real life !
-- 🤓 My preferred langages are C++ and JavaScript.
-- 👀 I’m interested in Software, Graphics and Engine Programming. I'm always looking for something to learn, and I'm trying a lot of things !
-- 💻 At the moment, I am trying to learn Vulkan by building my first renderer.
-- 🌱 I’m currently a Mobile Application Developper at EasyPicky. We're building our app using C++ and Qt.
+- 🤓 My langage of choice is C++, but I am also doing well with JavaScript, Rust and C.
+- 🧠 I love low level and optimization stuff. I'm always learning and digging rabbit holes.
+- 👀 I’m interested in Graphics and Engine programming.
+- 💻 At the moment, I am trying to learn Vulkan by building my own renderer. I also work on a match3 game.
+- 🌱 I'm currently looking for a role, preferably in C++. I aim to be in a highly demanding technical team.
+
+<br><br>
+
+<h2 align="center">Wanna know a bit more ?</h2> 
+<p align="center">
+  You can check <a href="https://www.vincent-son.dev" target="_blank">my website</a><br>
+  If you want to contact me, feel free to <a href="mailto:vincent1.son@epitech.eu">send me an email</a>
+</p>
+
+<br><br>
 
 <h2 align="center">My stats</h2> 
 <p align="center">
