@@ -9,7 +9,7 @@
 
 <h2 align="center">Wanna know a bit more ?</h2> 
 <p align="center">
-  You can check <a href="https://www.vincent-son.dev" target="_blank">my website</a><br>
+  You can check <a href="https://noggio.is-a.dev/" target="_blank">my website</a><br>
   If you want to contact me, feel free to <a href="mailto:vincent1.son@epitech.eu">send me an email</a>
 </p>
 
